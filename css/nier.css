@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background-image: url("../img/NierBackground.png");
+	background-repeat: no-repeat;
+	background-size: cover;	
+	-o-background-size: cover;
+	-moz-background-size: cover;
+	-webkit-background-size: cover;
+	
+}
+
+.gre-bg{
+	background-color: #818589bb;
+}
+
+.sil-bg{
+	background-color: #C0C0C0bb;
+}
+
+.galimg{
+	width: auto;
+	height: 300px;
+	display: block;
+}
